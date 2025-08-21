@@ -19,5 +19,4 @@ Streamlit
 Pandas
 Matplotlib
 
-License:
-This project is licensed under the MIT License.
+If you want the full code it will be available in main.py file
