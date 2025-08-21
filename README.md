@@ -9,6 +9,7 @@ Features:
 📂 Dataset:
 The dashboard uses a CSV file:
 quarterly_canada_population.csv
+You can download from quarterly_canada_population.csv file
 
 <img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/b31fc9c8-fbb4-4ee5-9702-0ce521b3d478" />
 <img width="282" height="449" alt="image" src="https://github.com/user-attachments/assets/493b0662-9b09-474c-ac27-00b2078309ad" />
